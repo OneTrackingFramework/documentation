@@ -21,5 +21,5 @@ In order to enable independent development to focus on the same goal, we introdu
 
 | Service | Purpose / Description |
 |---|---|
-| survey-service | Generic survey implementation to define survey questions and answers meta data in the backend, receiving survey responses and generating analytics on top of the data |
+| survey-service | Generic survey implementation to define survey question and answer meta data, receiving survey responses and generating analytics on top of the collected data |
 | push-notification-service | Sending push notifications based on Firebase Cloud Messaging |
