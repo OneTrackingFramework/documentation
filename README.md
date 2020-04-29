@@ -16,3 +16,10 @@ In order to enable independent development to focus on the same goal, we introdu
 - Preferably use Google Code Style if possible (https://github.com/google/styleguide)
 - Preferably use a technology stack, that is well-known and supported by corporations as those are more likely to be accepted
 - The license of each service should be the MIT license preferably to offer as less limitation as possible
+
+# Current well-advanced services
+
+| Service | Purpose / Description |
+|---|---|
+| survey-service | Generic survey implementation to define survey questions and answers meta data in the backend, receiving survey responses and generating analytics on top of the data |
+| push-notification-service | Sending push notifications based on Firebase Cloud Messaging |
