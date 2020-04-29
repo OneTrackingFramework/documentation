@@ -15,3 +15,4 @@ In order to enable independent development to focus on the same goal, we introdu
 - Use GitHub for Repositories (Preferably https://github.com/OneTrackingFramework)
 - Preferably use Google Code Style if possible (https://github.com/google/styleguide)
 - Preferably use a technology stack, that is well-known and supported by corporations as those are more likely to be accepted
+- The license of each service should be the MIT license preferably to offer as less limitation as possible
