@@ -14,7 +14,7 @@ In order to enable independent development to focus on the same goal, we introdu
 
 - Microservices
 - APIs implement REST endpoints
-- Internal communication between services are based on event store (event driven design) or use direct HTTP communication with the risk of data loss
+- Internal communication between services is based on event store (event driven design) or direct HTTP communication (with the risk of data loss)
 - Services must be stateless in order to run as multiple instances
 - Use GitHub for Repositories (Preferably https://github.com/OneTrackingFramework)
 - Preferably use Google Code Style if possible (https://github.com/google/styleguide)
