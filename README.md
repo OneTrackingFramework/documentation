@@ -6,6 +6,10 @@
 
 The One Tracking Framework (OTF) is supposed to offer generic and reusable backend implementations to speed up application development. The OTF got founded as a response to the COVID-19 crisis.
 
+The OTF acts as an independent party to provide services / backend components and App development for any need related to the COVID-19 crisis. To archive this goal anyone is welcome to support us.
+
+[Join us on Discord](https://discord.gg/3NGncnC)
+
 Services / backend components are intended to be implemented as micro services to enable high scalability by design.
 
 In order to enable independent development to focus on the same goal, we introduced a macro architecture, each implementation must be consistent with.
